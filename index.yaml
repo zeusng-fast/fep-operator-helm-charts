@@ -3,7 +3,7 @@ entries:
   fujitsu-enterprise-postgres-for-kubernetes:
   - apiVersion: v2
     appVersion: 4.0.0
-    created: "2022-01-21T16:03:53.8520586+11:00"
+    created: "2022-02-26T17:22:34.6447683+11:00"
     description: Helm Chart for Installation of Fujitsu Enterprise Postgres Operator
     digest: 733719f044b8764d5b2aa8820dff9eb2b915567f67ff05cf7bfe781555b4bfdf
     keywords:
@@ -21,6 +21,6 @@ entries:
     name: fujitsu-enterprise-postgres-for-kubernetes
     type: application
     urls:
-    - https://github.com/zeusng-fast/fep-operator-helm-charts/fujitsu-enterprise-postgres-for-kubernetes-1.0.0.tgz
+    - https://zeusng-fast.github.io/fep-operator-helm-charts/fujitsu-enterprise-postgres-for-kubernetes-1.0.0.tgz
     version: 1.0.0
-generated: "2022-01-21T16:03:53.8473791+11:00"
+generated: "2022-02-26T17:22:34.6419365+11:00"
